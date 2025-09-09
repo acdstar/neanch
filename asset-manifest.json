@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/neanch/static/css/main.8a522d4a.css",
+    "main.js": "/neanch/static/js/main.fc219b04.js",
+    "static/js/453.791de146.chunk.js": "/neanch/static/js/453.791de146.chunk.js",
+    "static/media/hero.jpg": "/neanch/static/media/hero.8d9eb7e8984b0c73f5c8.jpg",
+    "static/media/mobile.jpg": "/neanch/static/media/mobile.0423837ff93e5f00caf5.jpg",
+    "static/media/webdev.jpg": "/neanch/static/media/webdev.ec8df5a400ac0c136adc.jpg",
+    "static/media/software.jpg": "/neanch/static/media/software.71fff2ba37169f677373.jpg",
+    "static/media/consulting.jpg": "/neanch/static/media/consulting.ab506166d16ed3bf1f45.jpg",
+    "index.html": "/neanch/index.html",
+    "main.8a522d4a.css.map": "/neanch/static/css/main.8a522d4a.css.map",
+    "main.fc219b04.js.map": "/neanch/static/js/main.fc219b04.js.map",
+    "453.791de146.chunk.js.map": "/neanch/static/js/453.791de146.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a522d4a.css",
+    "static/js/main.fc219b04.js"
+  ]
+}
