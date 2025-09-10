@@ -1,6 +1,6 @@
 {
-  "homepage": "https://acdstar.github.io/neanch",
   "name": "neanch",
+  "homepage": "https://acdstar.github.io/neanch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
